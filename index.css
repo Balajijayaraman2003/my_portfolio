@@ -1,0 +1,14 @@
+.myhead{
+    background-color: black;
+    height:100px;
+}
+.profile{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    top:20;
+
+}
+.myhead h2{
+    color: white;
+}
